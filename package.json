@@ -13,7 +13,7 @@
     "test": "standard && tape test/*.js"
   },
   "bin": {
-    "electron": "cli.js"
+    "electron": "lib/cli.js"
   },
   "main": "index.js",
   "dependencies": {
